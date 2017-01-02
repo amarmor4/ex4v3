@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Server.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bfs.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Point.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LuxuryCab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Map.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaxiCenter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GameFlow.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Passenger.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Cab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Color.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CarType.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Socket.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trip.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Map.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Status.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Point.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trip.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StandardCab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/GameFlow.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Driver.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Passenger.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Matrix.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TaxiCenter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Driver.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StandardCab.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Block.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Udp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bfs.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Matrix.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LuxuryCab.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Socket.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Block.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Client.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Udp.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include-fixed" />
+          <root url="file:///usr/lib/gcc/x86_64-linux-gnu/5/include" />
+          <root url="file:///usr/include" />
+          <root url="file:///usr/local/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
